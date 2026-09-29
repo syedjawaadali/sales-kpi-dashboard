@@ -1,0 +1,13 @@
+date,product,channel,units,revenue
+2025-01-01,Alpha,Online,40,3023.82
+2025-01-01,Alpha,Retail,37,1348.1
+2025-01-01,Alpha,Partner,36,1575.1
+2025-01-01,Bravo,Online,32,588.66
+2025-01-01,Bravo,Retail,35,3147.84
+2025-01-01,Bravo,Partner,22,716.94
+2025-01-01,Charlie,Online,22,1937.41
+2025-01-01,Charlie,Retail,25,1957.93
+2025-01-01,Charlie,Partner,16,831.63
+2025-01-01,Delta,Online,18,352.08
+2025-01-01,Delta,Retail,14,495.02
+2025-01-01,Delta,Partner,12,237.79
